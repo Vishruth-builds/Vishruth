@@ -22,11 +22,11 @@ Currently learning by building projects, participating in hackathons, and solvin
 
 **Languages**
 
-`C` `C++` `Python` `JavaScript` `TypeScript`
+`C` `C++` `Python` 
 
 **Web & Development**
 
-`React` `HTML` `CSS` `Tailwind CSS` `FastAPI` `Streamlit`
+`React` `HTML` `CSS` `FastAPI` `Streamlit`
 
 **Data & AI**
 
@@ -46,8 +46,6 @@ A web-based phishing URL detection system designed to identify suspicious links 
 🌍 **HEATWISE AI**  
 A satellite-data-driven urban cooling decision-support system developed for a hackathon, combining geospatial data with machine learning.
 
-📦 **Open Source Supply Chain Risk Analyzer**  
-A dependency-graph system for analyzing how vulnerabilities can propagate through open-source software ecosystems.
 
 ---
 
@@ -73,13 +71,6 @@ Learn → Build → Compete → Contribute → Repeat
 
 ---
 
-## 📊 GitHub Stats
-
-![Visruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 💬 Let's Connect
 
