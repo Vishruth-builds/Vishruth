@@ -3,7 +3,9 @@
 ### 💻 CSE Student @ MIT Manipal | 🔐 Cybersecurity | 🤖 AI/ML | 🚀 Building Things
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6aae774885588191b8de32b3822c7876" />
+ <img width="1983" height="793" alt="ChatGPT Image Sep 19, 2026, 05_21_20 PM" src="https://github.com/user-attachments/assets/6f50a0ed-4c09-4d91-b852-7c26e77a7be5" />
+
+
     
 </p>
 
