@@ -3,7 +3,8 @@
 ### 💻 CSE Student @ MIT Manipal | 🔐 Cybersecurity | 🤖 AI/ML | 🚀 Building Things
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Hello%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://chatgpt.com/s/m_6aae774885588191b8de32b3822c7876" />
+    
 </p>
 
 <p align="center">
