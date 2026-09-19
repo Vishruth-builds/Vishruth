@@ -1,79 +1,79 @@
-# Hey, I'm Visruth 👋
+# 👋 Hey, I'm Visruth!
 
-### CSE Student @ MIT Manipal | Cybersecurity • AI/ML • Competitive Programming
+### 💻 CSE Student @ MIT Manipal | 🔐 Cybersecurity | 🤖 AI/ML | 🚀 Building Things
 
-I'm a first-year Computer Science student exploring the intersection of **cybersecurity, artificial intelligence, and software development**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Hello%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Currently learning by building projects, participating in hackathons, and solving problems one step at a time.
-
----
-
-## 🚀 What I'm Working On
-
-- 🔐 Exploring **Cybersecurity & Ethical Hacking**
-- 🤖 Learning **Machine Learning & AI**
-- 💻 Improving my **Data Structures & Algorithms**
-- 🏆 Participating in **Hackathons & Tech Competitions**
-- 🛠️ Building practical projects with AI-assisted development
+<p align="center">
+  <b>Welcome to my corner of GitHub! 🚀</b>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 About Me
 
-**Languages**
+Hey! I'm **Visruth**, a first-year Computer Science student at **MIT Manipal** 🇮🇳.
 
-`C` `C++` `Python` 
+I'm currently exploring the world of **Cybersecurity 🔐, Artificial Intelligence 🤖, and Software Development 💻**.
 
-**Web & Development**
+I learn best by actually building things — from hackathon projects to random ideas that turn into late-night coding sessions. 🌙
 
-`React` `HTML` `CSS` `FastAPI` `Streamlit`
+### 🚀 Currently Learning
 
-**Data & AI**
-
-`NumPy` `Pandas` `Scikit-learn` `XGBoost`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Linux`
-
----
-
-## 📌 Featured Projects
-
-🔐 **PhishGuard**  
-A web-based phishing URL detection system designed to identify suspicious links and explain potential risks.
-
-🌍 **HEATWISE AI**  
-A satellite-data-driven urban cooling decision-support system developed for a hackathon, combining geospatial data with machine learning.
-
+- 🔐 Cybersecurity & Ethical Hacking
+- 🤖 Machine Learning & AI
+- 🧠 Data Structures & Algorithms
+- 💻 C / C++ / Python
+- 🌐 Full-Stack Development
+- 🏆 Competitive Programming
 
 ---
 
-## 🏆 Hackathons & Competitions
+## 🛠️ Tech I Work With
 
-- 🚀 **ISRO Bharatiya Antariksh Hackathon 2026**
-- 💻 **Manipal Chaos Hackathon 2026**
-- 🔥 Continuously exploring new hackathons, challenges & open-source opportunities
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,html,css,tailwind,fastapi,git,github,vscode,linux&perline=7" />
+
+</p>
 
 ---
 
-## 🎯 Current Goals
+## 🚀 Some Things I've Built
+
+### 🔐 PhishGuard
+A phishing URL detection system that analyzes links and identifies potentially malicious URLs.
+
+**Tech:** `Python` `FastAPI` `React` `TypeScript`
+
+---
+
+### 🌍 HEATWISE AI
+A satellite-data-powered urban cooling decision-support system built for the **ISRO Bharatiya Antariksh Hackathon 2026**.
+
+**Tech:** `Python` `Machine Learning` `GeoPandas` `React` `FastAPI`
+
+---
+
+## 🏆 Hackathons
+
+🚀 **ISRO Bharatiya Antariksh Hackathon 2026**
+
+💻 **Manipal Chaos Hackathon 2026**
+
+🧠 Always looking for the next problem to solve...
+
+---
+
+## 🎯 2026 Goals
 
 ```text
-Learn → Build → Compete → Contribute → Repeat
-```
-
-- Build stronger foundations in DSA & C/C++
-- Develop real-world cybersecurity skills
-- Learn and apply ML to practical problems
-- Contribute to open-source projects
-- Build projects that solve actual problems
-
----
-
-
-### 💬 Let's Connect
-
-I'm always interested in **tech, hackathons, open source, cybersecurity, AI/ML, and building cool things.**
-
-⭐ Check out my repositories and feel free to connect!
+☐ Get really good at C/C++
+☐ Master DSA
+☐ Build cybersecurity projects
+☐ Learn Machine Learning properly
+☐ Participate in more hackathons
+☐ Contribute to Open Source
+☐ Build something people actually use
